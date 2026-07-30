@@ -4,10 +4,13 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 ---
 
 ## Your First Code Using C#
-3 of 7 challenges completed
-Write Your First C# Code
-Store and Retrieve Data Using Literal and Variable Values in C#
-Perform Basic String Formatting in C#
+7 of 7 challenges completed
+-Write Your First C# Code
+-Store and Retrieve Data Using Literal and Variable Values in C#
+-Perform Basic String Formatting in C#
+-Guided Project - Calculate and Print Student Grades
+-Guided Project - Calculate Final GPA
+-Trophy - Write Your First Code Using C#
 
 ## Create and Run Simple C# Console Applications
 0 of 8 challenges completed
