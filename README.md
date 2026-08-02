@@ -14,11 +14,13 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Write Your First Code Using C# 
 
 ## Create and Run Simple C# Console Applications
-4 of 8 challenges completed
+6 of 8 challenges completed
 - Install and Configure Visual Studio Code  
 - Call Methods From the .NET Class Library Using C#  
 - Add Decision Logic to Your Code Using if, else, and else if statements in C#  
-- Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#  
+- Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
+- Create Readable Code with Conventions, Whitespace, and Comments in C#  
+- Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#  
 
 ## Add Logic to C# Console Applications
 0 of 8 challenges completed
