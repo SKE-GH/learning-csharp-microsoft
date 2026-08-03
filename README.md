@@ -41,7 +41,7 @@ Not Passed
 
 ## Code examples  
 
-### Guided Project - Calculate Final GPA
+### 1 - Guided Project - Calculate Final GPA
 ```
 string studentName = "Sophia Johnson";
 string course1Name = "English 101";
@@ -92,4 +92,134 @@ Biology 101		       3    4
 Computer Science I     3    4
 Psychology 101		   4    3
 Final GPA:             3,35
+```
+### 2 - Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+```
+using System;
+
+// initialize variables - graded assignments 
+int currentAssignments = 5;
+
+int[] sophiaScores = [90, 86, 87, 98, 100, 94, 90];
+int[] andrewScores = [92, 89, 81, 96, 90, 89];
+int[] emmaScores = [90, 85, 87, 98, 68, 89, 89, 89];
+int[] loganScores = [90, 95, 87, 88, 96, 96];
+int[] beckyScores = [92, 91, 90, 91, 92, 92, 92];
+int[] chrisScores = [84, 86, 88, 90, 92, 94, 96, 98 ];
+int[] ericScores = [80, 90, 100, 80, 90, 100, 80, 90];
+int[] gregorScores = [91, 91, 91, 91, 91, 91, 91];    
+
+// Student names
+string[] studentNames = ["Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor"];
+
+int[] studentScores = new int[10];
+
+string currentStudentLetterGrade = "";
+
+// Write the Report Header to the console
+Console.WriteLine("Student\t\tGrade\n");
+
+foreach (string name in studentNames)
+{
+    if (name == "Sophia")
+        studentScores = sophiaScores;
+    else if (name == "Andrew")
+        studentScores = andrewScores;
+    else if (name == "Emma")
+        studentScores = emmaScores;
+    else if (name == "Logan")
+        studentScores = loganScores;
+    else if (name == "Becky")
+    studentScores = beckyScores;
+    else if (name == "Chris")
+        studentScores = chrisScores;
+    else if (name == "Eric")
+        studentScores = ericScores;
+    else if (name == "Gregor")
+        studentScores = gregorScores;
+    else
+        continue;
+
+    // initialize/reset the sum of scored assignments
+    decimal sumAssignmentScores = 0;
+
+    // initialize/reset the calculated average of exam + extra credit scores
+    decimal currentStudentGrade = 0;
+
+    // initialize/reset the amount of Scores
+    int scoreCount = 0;
+
+    foreach (int score in studentScores)
+    {
+        scoreCount ++;
+
+        if (scoreCount <= currentAssignments)
+            // add the exam score to the sum
+            sumAssignmentScores += score;
+
+        else
+            sumAssignmentScores += (decimal)score / 10m;
+
+    }
+
+    currentStudentGrade = (decimal)(sumAssignmentScores) / currentAssignments;
+
+if (currentStudentGrade >= 97)
+        currentStudentLetterGrade = "A+";
+
+    else if (currentStudentGrade >= 93)
+        currentStudentLetterGrade = "A";
+
+    else if (currentStudentGrade >= 90)
+        currentStudentLetterGrade = "A-";
+
+    else if (currentStudentGrade >= 87)
+        currentStudentLetterGrade = "B+";
+
+    else if (currentStudentGrade >= 83)
+        currentStudentLetterGrade = "B";
+
+    else if (currentStudentGrade >= 80)
+        currentStudentLetterGrade = "B-";
+
+    else if (currentStudentGrade >= 77)
+        currentStudentLetterGrade = "C+";
+
+    else if (currentStudentGrade >= 73)
+        currentStudentLetterGrade = "C";
+
+    else if (currentStudentGrade >= 70)
+        currentStudentLetterGrade = "C-";
+
+    else if (currentStudentGrade >= 67)
+        currentStudentLetterGrade = "D+";
+
+    else if (currentStudentGrade >= 63)
+        currentStudentLetterGrade = "D";
+
+    else if (currentStudentGrade >= 60)
+        currentStudentLetterGrade = "D-";
+
+    else
+        currentStudentLetterGrade = "F";
+
+    Console.WriteLine($"{name}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+}
+
+Console.WriteLine("Press the Enter key to continue");
+Console.ReadLine();
+```
+### Output
+```
+Student         Grade
+
+Sophia          95,88   A
+Andrew          91,38   A-
+Emma            90,94   A-
+Logan           93,12   A
+Becky           94,88   A
+Chris           93,76   A
+Eric            93,4    A
+Gregor          94,64   A
+Press the Enter key to continue
 ```
