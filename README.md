@@ -25,7 +25,8 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Create and Run Simple C# Console Applications  
 
 ## Add Logic to C# Console Applications
-0 of 8 challenges completed
+1 of 8 challenges completed  
+- Evaluate Boolean Expressions to Make Decisions in C#  
 
 ## Work with Variable Data in C# Console Applications
 0 of 8 challenges completed
