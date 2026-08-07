@@ -25,11 +25,12 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Create and Run Simple C# Console Applications  
 
 ## Add Logic to C# Console Applications
-4 of 8 challenges completed  
+5 of 8 challenges completed  
 - Evaluate Boolean Expressions to Make Decisions in C#
 - Control Variable Scope and Logic Using Code Blocks in C#
 - Branch the Flow of Code Using the switch-case Construct in C#  
-- Iterate Through a Code Block Using the for Statement in C#  
+- Iterate Through a Code Block Using the for Statement in C#
+- Add Looping Logic to Your Code Using the do-while and while Statements in C#  
 
 ## Work with Variable Data in C# Console Applications
 0 of 8 challenges completed
