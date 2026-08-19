@@ -36,12 +36,13 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Add Logic to C# Console Applications  
 
 ## Work with Variable Data in C# Console Applications
-5 of 8 challenges completed
+6 of 8 challenges completed
 - Choose the Correct Data Type in Your C# Code  
 - Convert Data Types Using Casting and Conversion Techniques in C#
 - Perform Operations on Arrays Using Helper Methods in C#
 - Format Alphanumeric Data for Presentation in C
-- Modify the Content of Strings Using Built-In String Data Type Methods in C#  
+- Modify the Content of Strings Using Built-In String Data Type Methods in C#
+- Guided Project - Work with Variable Data in C#  
 
 ## Create Methods in C# Console Applications  
 0 of 6 challenges completed
