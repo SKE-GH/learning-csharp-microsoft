@@ -47,7 +47,8 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Work with Variable Data in C# Console Applications  
 
 ## Create Methods in C# Console Applications  
-0 of 6 challenges completed
+1 of 6 challenges completed  
+- Write Your First C# Method  
 
 ## Debug C# Console Applications
 0 of 7 challenges completed
