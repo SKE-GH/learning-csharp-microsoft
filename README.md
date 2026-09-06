@@ -48,7 +48,8 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 
 ## Create Methods in C# Console Applications  
 1 of 6 challenges completed  
-- Write Your First C# Method  
+- Write Your First C# Method
+- Create C# Methods with Parameters  
 
 ## Debug C# Console Applications
 0 of 7 challenges completed
