@@ -50,7 +50,8 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 3 of 6 challenges completed  
 - Write Your First C# Method
 - Create C# Methods with Parameters
-- Create C# Methods that Return Values  
+- Create C# Methods that Return Values
+- Guided Project - Plan a Petting Zoo Visit
 
 ## Debug C# Console Applications
 0 of 7 challenges completed
