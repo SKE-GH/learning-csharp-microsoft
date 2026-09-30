@@ -47,14 +47,18 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Trophy - Work with Variable Data in C# Console Applications  
 
 ## Create Methods in C# Console Applications  
-3 of 6 challenges completed  
+6 of 6 challenges completed  
 - Write Your First C# Method
 - Create C# Methods with Parameters
 - Create C# Methods that Return Values
 - Guided Project - Plan a Petting Zoo Visit
+- Guided Project - Plan a Petting Zoo Visit
+- Challenge Project - Create a Mini-Game
+- Trophy - Create Methods in C# Console Applications
 
 ## Debug C# Console Applications
-0 of 7 challenges completed
+1 of 7 challenges completed  
+- Review the Principles of Code Debugging and Exception Handling  
 
 ## Foundational C# with Microsoft Certification Exam
 Not Passed
