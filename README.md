@@ -11,7 +11,6 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Perform Basic String Formatting in C#  
 - Guided Project - Calculate and Print Student Grades  
 - Guided Project - Calculate Final GPA  
-- Trophy - Write Your First Code Using C# 
 
 ## Create and Run Simple C# Console Applications
 8 of 8 challenges completed
@@ -21,8 +20,7 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
 - Create Readable Code with Conventions, Whitespace, and Comments in C#  
 - Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
-- Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#  
-- Trophy - Create and Run Simple C# Console Applications  
+- Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#   
 
 ## Add Logic to C# Console Applications
 8 of 8 challenges completed  
@@ -32,8 +30,7 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Iterate Through a Code Block Using the for Statement in C#
 - Add Looping Logic to Your Code Using the do-while and while Statements in C#
 - Guided Project - Develop Conditional Branching and Looping Structures in C#
-- Challenge Project - Develop Branching and Looping Structures in C#
-- Trophy - Add Logic to C# Console Applications  
+- Challenge Project - Develop Branching and Looping Structures in C# 
 
 ## Work with Variable Data in C# Console Applications
 8 of 8 challenges completed
@@ -44,7 +41,6 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Modify the Content of Strings Using Built-In String Data Type Methods in C#
 - Guided Project - Work with Variable Data in C#
 - Challenge Project - Work with Variable Data in C#  
-- Trophy - Work with Variable Data in C# Console Applications  
 
 ## Create Methods in C# Console Applications  
 6 of 6 challenges completed  
@@ -54,11 +50,15 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Guided Project - Plan a Petting Zoo Visit
 - Guided Project - Plan a Petting Zoo Visit
 - Challenge Project - Create a Mini-Game
-- Trophy - Create Methods in C# Console Applications
 
 ## Debug C# Console Applications
 1 of 7 challenges completed  
-- Review the Principles of Code Debugging and Exception Handling  
+- Review the Principles of Code Debugging and Exception Handling
+- Implement the Visual Studio Code Debugging Tools for C#
+- Implement Exception Handling in C# Console Applications
+- Create and Throw Exceptions in C# Console Applications
+- Guided Project - Debug and Handle Exceptions in a C# Console Application Using Visual Studio Code
+- Challenge Project - Debug a C# Console Application Using Visual Studio Code
 
 ## Foundational C# with Microsoft Certification Exam
 Not Passed
