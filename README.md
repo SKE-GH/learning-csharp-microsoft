@@ -52,7 +52,7 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Challenge Project - Create a Mini-Game
 
 ## Debug C# Console Applications
-1 of 7 challenges completed  
+7 of 7 challenges completed  
 - Review the Principles of Code Debugging and Exception Handling
 - Implement the Visual Studio Code Debugging Tools for C#
 - Implement Exception Handling in C# Console Applications
