@@ -61,7 +61,7 @@ Fortschrittsanzeige und Übungen, während des "Free Foundational C# with Micros
 - Challenge Project - Debug a C# Console Application Using Visual Studio Code
 
 ## Foundational C# with Microsoft Certification Exam
-Not Passed
+Certification Exam passed
 
 ---
 
